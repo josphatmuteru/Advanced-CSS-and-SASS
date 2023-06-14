@@ -36,8 +36,8 @@ body {
   display: inline-block;
   background-image: linear-gradient(
     to right,
-    $col-primary-light,
-    $col-primary-dark
+    $color-primary-light,
+    $color-primary-dark
   );
   -webkit-background-clip: text;
   color: transparent;
